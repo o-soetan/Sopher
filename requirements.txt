@@ -1,0 +1,9 @@
+libusb1==3.2.0
+ndeflib==0.3.3
+nfcpy==1.0.4
+numpy==2.2.3
+opencv-python==4.11.0.86
+pyDes==2.0.1
+pyserial==3.5
+pyzbar==0.1.9
+tk==0.1.0
