@@ -1,5 +1,6 @@
 # Sopher
 Library Management app 
+Uses python as the GUI and C++ as the Backend
 
 
 ## Project Scope and Features
